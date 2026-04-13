@@ -8,7 +8,6 @@
 - [Technologies utilisées](#technologies-utilisées)
 - [Structure du projet](#structure-du-projet)
 - [Sources de données](#sources-de-données)
-- [Résultats clés et informations sur le tableau de bord](#résultats-clés-et-informations-sur-le-tableau-de-bord)
 - [Section auteur](#section-auteur)
 
 ## Aperçu du projet
@@ -35,14 +34,12 @@ L'accès à l'eau potable est un défi majeur dans de nombreuses régions du mon
 ## Structure du projet
 Le projet est organisé comme suit :
 - **Donnees_initiales** : Contient les données brutes.
-- **Livrables** : Contient les résultats finaux et le tableau de bord.
+- **Livrables** : Contient le tableau de bord.
+- **Besoins_client.pdf** : Contient les fonctionnalités attendues pour le tableau de bor
+- **presentation.pdf**, **presentation.odp** : PowerPoint présentant ma démarche et mes conseils 
 
 ## Sources de données
 Les données proviennent de l'ONU.
-
-## Résultats clés et informations sur le tableau de bord
-Le tableau de bord présente les résultats de l'analyse, y compris les statistiques sur l'accès à l'eau, des visualisations interactives et des recommandations. 
-
 
 ## Section auteur
 **Auteur** : MKDataInsight 
