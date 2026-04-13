@@ -1,24 +1,37 @@
-# Projet 10 - Faites une étude sur l'eau potable
+# Project Overview
 
-Scénario :
+This project focuses on the study of drinking water to analyze its quality and availability. The goal is to provide insights and recommendations based on various data sources and methodologies used throughout the project.
 
-  Je suis consultant data analyst en mission dans l’ONG DWFA (Drinking Water For All), qui a pour ambition de donner accès à l’eau potable à tout le monde.
+# Data Sources
 
-  DWFA présente 3 domaines d’expertise : la création de services d’accès à l’eau potable, leur modernisation, et le consulting auprès d'administrations à propos des politiques d'accès à l'eau.
+The data is collected from various reliable sources, including:
+- **WHO** (World Health Organization): Providing global data on drinking water quality.
+- **Local Government Reports**: Data specific to the regions studied.
+- **Research Publications**: Peer-reviewed articles providing insights on water quality studies.
 
-  Dans l'attente d'un financement, je dois identifier des pays susceptibles de bénéficier de notre expertise dans ces domaines.
+# Methodology
+
+The methodology consists of multiple stages:
+1. **Data Collection**: Gathering data from the above sources and preprocessing it to ensure accuracy.
+2. **Data Analysis**: Applying statistical methods and machine learning techniques to analyze the data.
+3. **Visualization**: Creating graphs and charts to present the findings effectively.
+
+# Technologies
+
+We utilized several technologies in this project:
+- **Python**: For data manipulation and analysis.
+- **Pandas**: For data handling.
+- **Matplotlib & Seaborn**: For data visualization.
+- **Jupyter Notebooks**: For exploratory data analysis and documentation.
+
+# Project Structure
+
+The project is organized as follows:
+- **data/**: Contains all the data files used in the analysis.
+- **notebooks/**: Jupyter notebooks for exploratory analysis and model building.
+- **src/**: Source scripts containing all the functions and models used.
+- **results/**: Final results and visualizations generated from the analysis.
 
 
-Objectifs :
-  
-    Proposer un récit des résultats dynamique pour engager un public
-    Optimiser une solution de visualisation accessible, adaptée au public et au type de donnée
-    Créer un tableau de bord interactif pour rendre la visualisation disponible et accessible
+For more information, refer to the individual sections in this README for specific details on the data, methodology, technologies, and outcomes of this study.
 
-Compétences :
-    
-    Prise en compte des enjeux contextuels / de la démarche de data visualisation 
-    Recherche de données pertinentes 
-    Prétraitement et manipulation des données avec un outil adapté 
-    Bonnes pratiques en termes de data visualisation / data storytelling 
-    Pratique et maîtrise concrète d’un outil de data visualisation
